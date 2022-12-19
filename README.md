@@ -1,5 +1,6 @@
 ### Hi there 👋
-### Iam sageer kv
+👀 I’m interested in python developer
+🌱 I’m currently learning python django
 
 <h2> 📈 &nbsp;My GitHub History!</h2>
 <a href="https://github.com/sageerkv">
