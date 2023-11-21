@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### Iam sageer kv
    
-🌱 I’m currently learning python django
+🌱 I am currently mastering Python Django and actively developing my skills as a Python Django developer
 
 <h2> 📈 &nbsp;My GitHub History!</h2>
 
