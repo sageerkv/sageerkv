@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### Iam sageer kv
    
-🌱 I am currently mastering Python Django and actively developing my skills as a Python Django developer
+🌱 A passionate Python Django developer dedicated to mastering the craft of web development. Currently sharpening my skills in Python Django, I'm actively building projects and seeking opportunities to contribute to impactful software solutions. 
 
 <h2> 📈 &nbsp;My GitHub History!</h2>
 
